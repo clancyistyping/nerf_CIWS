@@ -1,4 +1,4 @@
-package com.example.yourapp // <-- Keep your existing package name!
+package com.example.nerf_ciws
 
 import android.Manifest
 import android.content.pm.PackageManager
